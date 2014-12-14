@@ -50,7 +50,7 @@ Expression solver can evaluate certain expression as shown below:
 Every function is written by Alim Ul Karim. We were asked not use any standard functions. Only one function is used sprintf to convert from char to decimal , other than that every single piece of code is self written. If concept is retrived from some place then cite is given on top of the function(code).
 
 
-###Limitations
+###Limitations of Floating Point Expression Solver
 ![Floating Point Expression Solver in C (Limitations-0): Error Solving Example](/Limitations-0.png)
 ![Floating Point Expression Solver in C (Limitations-1): Error Solving Example](/Limitations-1.png)
 
