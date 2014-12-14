@@ -10,7 +10,7 @@ It was a two persons project, the other person never worked on it
 because he left the country. As a result , other person never credited
 for this project. However name is there as we were assigned.
 
-###Features
+###Features and Ordering of the Operators
 - ()  	: Opening"(" and closing")" brackets , user must have to close the bracket and must put a number between brackets.
 - ^   	: Power/Exponential Operator, 2^3 = 8
 - ~   	: Roots , like 8~3 = 2, 4~2 = 2 , 36~2=6
