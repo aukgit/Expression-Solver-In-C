@@ -10,13 +10,13 @@ It was a two persons project, the other person never worked on it
 because he left the country. As a result , other person never credited
 for this project. However name is there as we were assigned.
 
-[Presentation](https://github.com/aukgit/Expression-Solver-In-C/blob/master/Presentation/presentation.pptx?raw=true "How to work with it")
+[Presentation](https://github.com/aukgit/Expression-Solver-In-C/blob/master/Presentation/presentation.pptx?raw=true "How to work with it") [Readme](https://github.com/aukgit/Expression-Solver-In-C/blob/master/Expression%20Solver%20In%20C/readme.txt "Readme")
 ![Floating Point Expression Solver in C : Error Solving Example](/Presentation/advance%20errors.png)
 ![Floating Point Expression Solver in C : Error Solving Example](/Presentation/expression%20steps.png)
 ![Floating Point Expression Solver in C : Error Solving Example](/Presentation/simple%20errors.png)
 ![Floating Point Expression Solver in C : Error Solving Example](/Presentation/user_friendly_format.png)
 ![Floating Point Expression Solver in C : Error Solving Example](/Presentation/without%20userfriendly%20format.png)
-[Presentation](https://github.com/aukgit/Expression-Solver-In-C/blob/master/Presentation/presentation.pptx?raw=true "How to work with it")
+[Presentation](https://github.com/aukgit/Expression-Solver-In-C/blob/master/Presentation/presentation.pptx?raw=true "How to work with it") [Readme](https://github.com/aukgit/Expression-Solver-In-C/blob/master/Expression%20Solver%20In%20C/readme.txt "Readme")
 ###Features and Ordering of the Operators
 - ()  	: Opening"(" and closing")" brackets , user must have to close the bracket and must put a number between brackets.
 - ^   	: Power/Exponential Operator, 2^3 = 8
