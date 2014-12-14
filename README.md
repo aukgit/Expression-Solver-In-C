@@ -10,3 +10,7 @@ because he left the country. As a result , other person never credited
 for this project. However name is there as we were assigned.
 
 Written 21 August , 2011
+
+##Code Credits
+
+Every function is written by Alim Ul Karim. We were asked not use any standard functions. Only one function is used sprintf to convert from char to decimal , other than that every single piece of code is self written. If concept is retrived from someplace cite is given on top of the function.
