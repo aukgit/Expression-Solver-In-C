@@ -10,6 +10,9 @@ It was a two persons project, the other person never worked on it
 because he left the country. As a result , other person never credited
 for this project. However name is there as we were assigned.
 
+
+![Floating Point Expression Solver in C : Error Solving Example](/https://raw.githubusercontent.com/aukgit/Expression-Solver-In-C/master/Presentation/advance%20errors.png)
+
 ###Features and Ordering of the Operators
 - ()  	: Opening"(" and closing")" brackets , user must have to close the bracket and must put a number between brackets.
 - ^   	: Power/Exponential Operator, 2^3 = 8
