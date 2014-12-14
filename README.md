@@ -1,5 +1,5 @@
-Expression-Solver-In-C
-======================
+Floating-Point-Expression-Solver-In-C
+=====================================
 
 Expression Solver in C to solve floating point problems.
 
