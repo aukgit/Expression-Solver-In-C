@@ -11,7 +11,11 @@ because he left the country. As a result , other person never credited
 for this project. However name is there as we were assigned.
 
 
-![Floating Point Expression Solver in C : Error Solving Example](/https://raw.githubusercontent.com/aukgit/Expression-Solver-In-C/master/Presentation/advance%20errors.png)
+![Floating Point Expression Solver in C : Error Solving Example](/Presentation/advance%20errors.png)
+![Floating Point Expression Solver in C : Error Solving Example](/Presentation/expression%20steps.png)
+![Floating Point Expression Solver in C : Error Solving Example](/Presentation/simple%20errors.png)
+![Floating Point Expression Solver in C : Error Solving Example](/Presentation/user_friendly_format.png)
+![Floating Point Expression Solver in C : Error Solving Example](/Presentation/without%20userfriendly%20format.png)
 
 ###Features and Ordering of the Operators
 - ()  	: Opening"(" and closing")" brackets , user must have to close the bracket and must put a number between brackets.
