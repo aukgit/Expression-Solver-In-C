@@ -10,6 +10,18 @@ It was a two persons project, the other person never worked on it
 because he left the country. As a result , other person never credited
 for this project. However name is there as we were assigned.
 
+###Features
+- ()  	: Opening"(" and closing")" brackets , user must have to close the bracket and must put a number between brackets.
+- ^   	: Power/Exponential Operator, 2^3 = 8
+- ~   	: Roots , like 8~3 = 2, 4~2 = 2 , 36~2=6
+- %   	: Percentage Operator , 5%10 will be 50 , 3%10 will 30
+- !   	: factor, x! , means x(x-1)!
+- /   	: Division Operator
+- *  	: Multiplication Operator
+- +   	: Addition Operator
+- -   	: Minus/Subtraction Operator
+
+
 
 ###Working Examples
 Expression solver can evaluate certain expression as shown below:
