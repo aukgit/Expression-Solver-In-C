@@ -19,7 +19,7 @@ Expression solver can evaluate certain expression as shown below:
 - -4 - 3 -232 -1 = **-240**
 - -2+2*7+2 = 14
 - 5*(-2+2*7 ) = **60**
-- 2^3+3+2*2/5 = **11.8**
+- 2^3+3+2*2/5 = 11.8
 - 72(7(2(1)(2/100))) = **20.16** _// example with brackets_
 - 4 - 982 * 1233 / -112 = **10814.76786** _// cal:10814.768278_
 - 2 + 1 (-2 *2 +1) /1 0 -20 = **18.3** _// both same in handy cal and program_
